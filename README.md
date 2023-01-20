@@ -34,6 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app que visa obter o controle de hábitos do usuário.
 
+- [Dê uma olhada no projeto](https://Difarias.github.io/Habits-Control)
 
 ## 🔖 Layout
 
